@@ -1,0 +1,22 @@
+.present{
+
+    background-color: goldenrod;
+    color: seagreen;
+    font-size: 30px;
+}
+.box{
+    padding: 12px;
+    margin: 8px;
+    box-shadow: 10px 8px 1px hotpink;
+    
+    
+}
+.boxer{
+    float: left;
+}
+.top{
+    height: 80%;
+    width: 30%;
+    float: left;
+
+}

@@ -1,0 +1,52 @@
+.firsthead{
+
+   height: 50%;
+   width: 50%;
+   float: left;
+   
+
+    
+}
+
+#detels{
+    border: 5px double gold;
+    color: hotpink;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 24px;
+   
+}
+#to{
+    font-size: 36px;
+    color: red;
+}
+#my{
+    margin: 10px ;
+    font-size: 38px;
+    color:green;
+    text-align: center;
+}
+#to:hover{
+
+    color: hotpink;
+    background-color: yellowgreen;
+    font-size: 40px;
+}
+.pic{
+    height: 100%;
+    width: 90%;
+  
+}
+.reg{
+    text-align: center;
+   
+}
+.lorem{
+    color: tomato;
+    background-color: lightblue;
+}
+.lorem:hover{
+    background-color: yellowgreen;
+    color: blue;
+    font-size: 34px;
+}
