@@ -50,3 +50,6 @@
     color: blue;
     font-size: 34px;
 }
+.top{
+    background-image: url(top.png);
+}
